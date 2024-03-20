@@ -1,0 +1,448 @@
+﻿MID,MDESC,Phân loại dịch vụ bậc 1,Phân loại dịch vụ bậc 2
+1,Đăng nhập,Xác thực và Bảo mật,Đăng nhập
+2,Kích hoạt,Xác thực và Bảo mật,Kích hoạt
+3,Kích hoạt lại trên thiết bị khác,Xác thực và Bảo mật,Dịch vụ đổi thiết bị
+4,Gửi OTP chuyển đổi IB,Xác thực và Bảo mật,Dịch vụ đổi thiết bị
+5,Xác thực chuyển đổi IB,Xác thực và Bảo mật,Dịch vụ đổi thiết bị
+6,Đổi mật khẩu khi hết hạn,Xác thực và Bảo mật,Dịch vụ bảo mật
+7,Xác thực khi đăng nhập sai mật khẩu nhiều lần,Xác thực và Bảo mật,Dịch vụ bảo mật
+8,Gửi lại OTP,Xác thực và Bảo mật,Dịch vụ OTP
+9,Logout,Xác thực và Bảo mật,Đăng xuất
+10,Lấy danh sách tài khoản,Sử dụng thông thường,Lấy thông tin giao dịch
+11,Lấy chi tiết tài khoản,Sử dụng thông thường,Lấy thông tin cá nhân
+12,Lấy lịch sử tài khoản,Sử dụng thông thường,Lấy thông tin cá nhân
+13,Cài đặt tài khoản mặc định,Sử dụng thông thường,Dịch vụ tùy biến ứng dụng
+14,"Cài đặt banner, chức năng yêu thích",Sử dụng thông thường,Dịch vụ tùy biến ứng dụng
+15,get token kênh ngoai,Xác thực và Bảo mật,Lấy thông tin token bên ngoài
+18,Xác thực 3ds-biometric,Xác thực và Bảo mật,Dịch vụ bảo mật
+19,Khởi tạo cài đặt vân tay,Xác thực và Bảo mật,Dịch vụ bảo mật
+20,Cài đặt vân tay,Xác thực và Bảo mật,Dịch vụ bảo mật
+21,Khởi tạo quên mật khẩu,Xác thực và Bảo mật,Dịch vụ lấy lại mật khẩu quên
+22,Xác nhận quên mật khẩu,Xác thực và Bảo mật,Dịch vụ lấy lại mật khẩu quên
+23,Khởi tạo đăng ký/hủy Soft OTP,Xác thực và Bảo mật,Dịch vụ Soft OTP
+24,Xác nhận đăng ký Soft OTP,Xác thực và Bảo mật,Dịch vụ Soft OTP
+25,Tự động đăng ký OTT,Xác thực và Bảo mật,Dịch vụ OTT
+26,Khởi tạo đăng ký/hủy OTT,Xác thực và Bảo mật,Dịch vụ OTT
+27,Xác nhận đăng ký/hủy OTT,Xác thực và Bảo mật,Dịch vụ OTT
+28,Cài đặt xác thực đăng nhập trên trình duyệt Web,Xác thực và Bảo mật,Dịch vụ đăng nhập trên trình duyệt Web
+29,Xác nhận đăng nhập cho Web từ MB App,Xác thực và Bảo mật,Dịch vụ đăng nhập trên trình duyệt Web
+30,Trả kết quả Cross Login cho IB,Xác thực và Bảo mật,Dịch vụ bảo mật
+31,Lấy danh sách Banner ,Sử dụng thông thường,Dịch vụ tùy biến ứng dụng
+32,Khóa Soft OTP,Xác thực và Bảo mật,Dịch vụ Soft OTP
+33,Lấy giá trị configs,Sử dụng thông thường,Dịch vụ tùy biến ứng dụng
+34,Thay đổi trạng thái Pin Soft OTP,Xác thực và Bảo mật,Dịch vụ Soft OTP
+35,"Kích hoạt Smart OTP trên thiết bị Root, Cập nhật PTXT SMS",Xác thực và Bảo mật,Dịch vụ SmartOTP
+36,Xác thực tài khoản,Xác thực và Bảo mật,Dịch vụ bảo mật
+37,Khóa Soft OTP không Login,Xác thực và Bảo mật,Dịch vụ Soft OTP
+38,Extend session,Sử dụng thông thường,Kéo dài thời lượng session
+39,Lấy danh sách gói,Lấy thông tin,Lấy thông tin dịch vụ
+40,Khởi tạo đổi gói dịch vụ,Dịch vụ khác,Dịch vụ đổi gói dịch vụ
+41,Xác nhận đổi gói dịch vụ,Dịch vụ khác,Dịch vụ đổi gói dịch vụ
+45,Khởi tạo cài đặt Email,Dịch vụ tùy biến cá nhân,Dịch vụ mail
+46,Xác nhận cài đặt Email,Dịch vụ tùy biến cá nhân,Dịch vụ mail
+47,Cập nhật Email,Dịch vụ tùy biến cá nhân,Dịch vụ mail
+48,Khởi tạo cài đặt ĐN thiết bị khác,Xác thực và Bảo mật,Dịch vụ chuyển thiết bị khác
+49,Xác nhận cài đặt ĐN thiết bị khác,Xác thực và Bảo mật,Dịch vụ chuyển thiết bị khác
+50,Xác nhận cài đặt ĐN thiết bị khác có thu thập eKYC,Xác thực và Bảo mật,Dịch vụ chuyển thiết bị khác
+51,Cập nhật cài đặt đăng nhập thiết bị khác,Xác thực và Bảo mật,Dịch vụ chuyển thiết bị khác
+52,"Cài đặt giao diện VIP, NORMAL",Dịch vụ tùy biến cá nhân,Dịch vụ tùy biến ứng dụng
+55,Kích hoạt lại trên thiết bị khác qua eKYC,Xác thực và Bảo mật,Dịch vụ chuyển thiết bị khác
+56,Kích hoạt trình duyệt khác,Xác thực và Bảo mật,Dịch vụ chuyển thiết bị khác
+58,Xác nhận quên mật khẩu qua eKYC,Xác thực và Bảo mật,Dịch vụ chuyển thiết bị khác
+59,Lấy thông tin version,Sử dụng thông thường,Lấy thông tin dịch vụ
+60,Lấy danh sách chức năng yêu thích,Sử dụng thông thường,Lấy thông tin dịch vụ
+61,Kiểm tra trạng thái Soft OTP,Xác thực và Bảo mật,Dịch vụ Soft OTP
+62,Kiểm tra Accessibility Client ,Dịch vụ tùy biến cá nhân,Dịch vụ hỗ trợ người khuyết tật
+100,Khởi tạo chuyển khoản nội bộ,Chuyển tiền,Dịch vụ chuyển khoản nội bộ
+101,Xác nhận chuyển khoản nội bộ,Chuyển tiền,Dịch vụ chuyển khoản nội bộ
+102,Khởi tạo chuyển khoản 247 tới số tài khoản,Chuyển tiền,Dịch vụ chuyển khoản 247
+103,Xác thực chuyển khoản 247 tới số tài khoản,Chuyển tiền,Dịch vụ chuyển khoản 247
+104,Khởi tạo chuyển khoản 247 tới số thẻ,Chuyển tiền,Dịch vụ chuyển khoản 247
+105,Xác thực chuyển khoản 247 tới số thẻ,Chuyển tiền,Dịch vụ chuyển khoản 247
+106,Khởi tạo chuyển tiền trong nước,Chuyển tiền,Dịch vụ chuyển tiền trong nước
+107,Xác nhận chuyển tiền trong nước,Chuyển tiền,Dịch vụ chuyển tiền trong nước
+108,Khởi tạo chuyển tiền định kỳ,Chuyển tiền,Dịch vụ chuyển tiền định kỳ
+109,Xác nhận chuyển tiền định kỳ,Chuyển tiền,Dịch vụ chuyển tiền định kỳ
+110,Khởi tạo bán ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+111,Xác nhận bán ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+112,Kiểm tra điều kiện giao dịch 247 hạn mức cao,Chuyển tiền,Dịch vụ chuyển khoản 247
+113,Danh sách giao dịch tách chuyển khoản 247,Chuyển tiền,Dịch vụ chuyển khoản 247
+115,Khởi tạo nạp tiền điện thoại,Dịch vụ khác,Dịch vụ nạp tiền điện thoại
+116,Xác nhận nạp tiền điện thoại,Dịch vụ khác,Dịch vụ nạp tiền điện thoại
+117,Khởi tạo chuyển tiền từ thiện,Dịch vụ khác,Dịch vụ từ thiện
+118,Xác nhận chuyển tiền từ thiện,Dịch vụ khác,Dịch vụ từ thiện
+119,"Lấy danh sách nhà cung cấp, dịch vụ TTHD",Dịch vụ khác,Dịch vụ hóa đơn
+120,Truy vấn thông tin hóa đơn,Dịch vụ khác,Dịch vụ hóa đơn
+121,Khởi tạo thanh toán hóa đơn,Dịch vụ khác,Dịch vụ hóa đơn
+122,Xác nhận thanh toán hóa đơn,Dịch vụ khác,Dịch vụ hóa đơn
+123,"Lấy danh sách nhà cung cấp, dịch vụ TTHD định kỳ",Dịch vụ khác,Dịch vụ hóa đơn đinh kỳ
+124,Khởi tạo thanh toán hóa đơn định kỳ,Dịch vụ khác,Dịch vụ hóa đơn đinh kỳ
+125,Xác nhận thanh toán hóa đơn định kỳ,Dịch vụ khác,Dịch vụ hóa đơn đinh kỳ
+126,Lấy danh sách TTHD định kỳ,Dịch vụ khác,Dịch vụ hóa đơn đinh kỳ
+127,Lấy danh sách giao dịch TTHD định kỳ,Dịch vụ khác,Dịch vụ hóa đơn đinh kỳ
+128,Khởi tạo thanh toán QR,Thanh toán,Dịch vụ QR
+129,Xác nhận thanh toán QR,Thanh toán,Dịch vụ QR
+130,Giải mã QR,Xác thực và Bảo mật,Dịch vụ QR
+131,Lấy danh sách chứng khoán,Lấy thông tin,Lấy thông tin dịch vụ
+132,Lấy danh sách nhóm bảo hiểm,Bảo hiểm,Dịch vụ bảo hiểm
+133,Lấy danh sách bảo hiểm,Bảo hiểm,Dịch vụ bảo hiểm
+134,Giải mã thông tin bảo hiểm,Bảo hiểm,Dịch vụ bảo hiểm
+135,Ghi nhận thông tin bảo hiểm quan tâm,Bảo hiểm,Dịch vụ bảo hiểm
+136,Khởi tạo chuyển khoản 247 tới số tài khoản giá trị cao,Chuyển tiền,Dịch vụ chuyển khoản 247
+137,Xác thực chuyển khoản 247 tới số tài khoản giá trị cao,Chuyển tiền,Dịch vụ chuyển khoản 247
+160,Lấy kỳ hạn tiết kiệm,Tiết kiệm,Dịch vụ tiết kiệm
+161,Lấy phương thức đáo hạn,Tiết kiệm,Dịch vụ tiết kiệm
+162,Khởi tạo mở tiết kiệm,Tiết kiệm,Dịch vụ tiết kiệm
+163,Xác nhận mở tiết kiệm,Tiết kiệm,Dịch vụ tiết kiệm
+164,Khởi tạo tất toán tiết kiệm,Tiết kiệm,Dịch vụ tiết kiệm
+165,Xác nhận tất toán tiết kiệm,Tiết kiệm,Dịch vụ tiết kiệm
+166,Lấy danh sách sản phẩm tiết kiệm,Tiết kiệm,Dịch vụ tiết kiệm
+167,Truy vấn thông tin lãi suất tiết kiệm,Tiết kiệm,Dịch vụ tiết kiệm
+168,Truy vấn thông tin số tiền tối thiểu tiết kiệm,Tiết kiệm,Dịch vụ tiết kiệm
+169,Lấy thông tin tài khoản vay,Tiền Vay,Dịch vụ tiền vay
+170,Khởi tạo trả nợ vay,Tiền Vay,Dịch vụ tiền vay
+171,Xác nhận trả nợ vay,Tiền Vay,Dịch vụ tiền vay
+200,Lấy thông tin tài khoản chuyển khoản nội bộ,Lấy thông tin,Lấy thông tin giao dịch
+201,"Lấy thông tin tài khoản,thẻ chuyển khoản 247",Lấy thông tin,Lấy thông tin giao dịch
+202,Lấy danh sách ngân hàng ck ngoài,Lấy thông tin,Lấy thông tin giao dịch
+203,Lấy danh sách chuyển tiền định kỳ,Lấy thông tin,Lấy thông tin giao dịch
+205,Lấy thông tin ngoại tệ,Lấy thông tin,Lấy thông tin giao dịch
+206,Khởi tạo xóa chuyển khoản định kỳ,Chuyển tiền,Dịch vụ chuyển khoản định kỳ
+207,Xác nhận xóa chuyển khoản định kỳ,Chuyển tiền,Dịch vụ chuyển khoản định kỳ
+208,Lấy danh sách chuyển tiền từ thiện,Dịch vụ khác,Dịch vụ từ thiện
+209,Xuất excel lịch sử tài khoản,Dịch vụ khác,Dịch vụ xuất excel
+220,Lấy danh sách danh bạ thụ hưởng,Danh bạ / mẫu,Dịch vụ danh bạ thụ hưởng
+221,Thêm danh bạ thụ hưởng,Danh bạ / mẫu,Dịch vụ danh bạ thụ hưởng
+222,Sửa danh bạ thụ hưởng,Danh bạ / mẫu,Dịch vụ danh bạ thụ hưởng
+223,Xóa danh bạ thụ hưởng,Danh bạ / mẫu,Dịch vụ danh bạ thụ hưởng
+225,Lấy danh sách mẫu chuyển tiền,Danh bạ / mẫu,Dịch vụ mẫu chuyển tiền
+226,Thêm mẫu chuyển tiền,Danh bạ / mẫu,Dịch vụ mẫu chuyển tiền
+227,Sửa mẫu chuyển tiền,Danh bạ / mẫu,Dịch vụ mẫu chuyển tiền
+228,Xóa mẫu chuyển tiền,Danh bạ / mẫu,Dịch vụ mẫu chuyển tiền
+230,Lấy lịch sử topup,Thanh toán,Dịch vụ lịch sử Topup
+231,Thêm lịch sử topup,Thanh toán,Dịch vụ lịch sử Topup
+232,Xóa lịch sử topup,Thanh toán,Dịch vụ lịch sử Topup
+235,Lấy danh sách mẫu thanh toán,Danh bạ / mẫu,Dịch vụ mẫu thanh toán
+236,Thêm mẫu thanh toán,Danh bạ / mẫu,Dịch vụ mẫu thanh toán
+237,Sửa mẫu thanh toán,Danh bạ / mẫu,Dịch vụ mẫu thanh toán
+238,Xóa mẫu thanh toán,Danh bạ / mẫu,Dịch vụ mẫu thanh toán
+239,Cập nhật thông báo cước,Lấy thông tin,Thông báo cước
+240,Lịch sử giao dịch gần đây,Lấy thông tin,Lấy thông tin cá nhân
+241,Xóa giao dịch gần đây,Lấy thông tin,Chỉnh sửa lịch sử giao dịch
+300,Lấy thông tin xác nhận  smartOtp,Xác thực và Bảo mật,Dịch vụ SmartOTP
+302,Kiểm tra giao dịch xác nhận smartOtp,Xác thực và Bảo mật,Dịch vụ SmartOTP
+303,Huỷ xác thực smart otp,Xác thực và Bảo mật,Dịch vụ SmartOTP
+310,Lấy danh sách thẻ,Thẻ,Dịch vụ thẻ
+311,Chi tiết thẻ,Thẻ,Dịch vụ thẻ
+312,Lịch sử thẻ,Thẻ,Dịch vụ thẻ
+313,Sao kê thẻ,Thẻ,Dịch vụ thẻ
+314,Khởi tạo chấm dứt sử dụng thẻ GNNĐ,Thẻ,Dịch vụ thẻ
+315,Xác nhận chấm dứt sử dụng thẻ GNNĐ,Thẻ,Dịch vụ thẻ
+330,Nạp tiền y tế - Kiểm tra thông tin,Dịch vụ khác,Dịch vụ y tế
+331,Nạp tiền y tế - Khởi tạo,Dịch vụ khác,Dịch vụ y tế
+332,Nạp tiền y tế - Xác nhận,Dịch vụ khác,Dịch vụ y tế
+333,Mở/Khoá thẻ - Khởi tạo,Thẻ,Dịch vụ thẻ
+334,Mở khoá thẻ - Xác nhận,Thẻ,Dịch vụ thẻ
+335,Thay đổi tải khoản liên kết - Khởi tạo,Dịch vụ tùy biến cá nhân,Dịch vụ thay đổi tài khoản liên kết
+336,Thay đổi tải khoản liên kết - Xác nhận,Dịch vụ tùy biến cá nhân,Dịch vụ thay đổi tài khoản liên kết
+337,Mở/khoá thanh toán trực tuyến - Khởi tạo,Thanh toán,Dịch vụ thanh toán trực tuyến
+338,Mở/khoá thanh toán trực tuyến - Xác nhận,Thanh toán,Dịch vụ thanh toán trực tuyến
+339,Kích hoạt thẻ lần đầu - Khởi tạo,Thẻ,Dịch vụ thẻ
+340,Kích hoạt thẻ lần đầu - Xác nhận,Thẻ,Dịch vụ thẻ
+341,Kích hoạt lại PIN - Khởi tạo,Xác thực và Bảo mật,Dịch vụ kích hoạt lại PIN
+342,Kích hoạt lại PIN - Xác nhận,Xác thực và Bảo mật,Dịch vụ kích hoạt lại PIN
+343,Thanh toán thẻ tín dung - Khởi tạo,Thẻ,Dịch vụ thanh toán thẻ tín dụng
+344,Thanh toán thẻ tín dung - Xác nhận,Thẻ,Dịch vụ thanh toán thẻ tín dụng
+345,Thanh toán thẻ tín dung -Lấy thông tin,Thẻ,Dịch vụ thanh toán thẻ tín dụng
+350,Lấy token ZPK thẻ,Xác thực và Bảo mật,Dịch vụ PIN thẻ
+353,Khởi tạo đổi pin thẻ,Xác thực và Bảo mật,Dịch vụ PIN thẻ
+354,Xác nhận đổi pin thẻ,Xác thực và Bảo mật,Dịch vụ PIN thẻ
+355,Khởi tạo đặt pin thẻ,Xác thực và Bảo mật,Dịch vụ PIN thẻ
+356,Xác nhận đặt pin thẻ,Xác thực và Bảo mật,Dịch vụ PIN thẻ
+357,Kiểm tra thông tin đặt EPIN,Xác thực và Bảo mật,Dịch vụ PIN thẻ
+358,Lấy danh sách bệnh viện có thể liên kết ,Dịch vụ khác,Dịch vụ y tế
+359,Khởi tạo - Liên kết thẻ y tế phi vật lý,Dịch vụ khác,Dịch vụ y tế
+360,Xác nhận - Liên kết thẻ y tế phi vật lý,Dịch vụ khác,Dịch vụ y tế
+361,Danh sách token (thẻ ảo) đã liên kết,Dịch vụ khác,Dịch vụ y tế
+362,Khởi tạo - Hủy liên kết thẻ y tế phi vật lý,Dịch vụ khác,Dịch vụ y tế
+363,Xác nhận - Hủy liên kết thẻ y tế phi vật lý,Dịch vụ khác,Dịch vụ y tế
+364,Danh sách thẻ đủ điều kiện đăng ký trả góp,Trả góp,Dịch vụ trả góp
+365,Danh sách giao dịch được phép trả góp,Trả góp,Dịch vụ trả góp
+366,Lấy danh sách kỳ hạn của giao dịch,Trả góp,Dịch vụ trả góp
+367,Khởi tạo đăng ký giao dịch trả góp,Trả góp,Dịch vụ trả góp
+368,Xác nhận đăng ký giao dịch trả góp,Trả góp,Dịch vụ trả góp
+369,Danh sách giao dịch đã trả góp,Trả góp,Dịch vụ trả góp
+370,Tặng quà - Khởi tạo,Dịch vụ khác,Dịch vụ tặng quà
+371,Tặng quà - Xác nhận,Dịch vụ khác,Dịch vụ tặng quà
+379,Lấy thông tin bán chéo,Lấy thông tin,Lấy thông tin dịch vụ
+380,Báo cáo giao dịch,Lấy thông tin,Lấy thông tin cá nhân
+381,Danh sách loại dịch vụ,Lấy thông tin,Lấy thông tin dịch vụ
+382,Lưu thông tin góp ý,Lấy thông tin,Góp ý thông tin
+383,Lưu thông tin tra soát,Tra soát,Dịch vụ tra soát
+384,Danh sách hạn mức gói dịch vụ,Dịch vụ khác,Lấy thông tin dịch vụ
+385,Danh sách Atm,Rút tiền,Dịch vụ tìm kiếm ATM
+386,Lấy danh sách province ATM,Rút tiền,Dịch vụ tìm kiếm ATM
+387,Lấy danh sách district ATM,Rút tiền,Dịch vụ tìm kiếm ATM
+388,Lấy danh sách dịch vụ,Dịch vụ khác,Lấy thông tin dịch vụ
+389,Danh sách giao dịch tra soát,Tra soát,Dịch vụ tra soát
+390,Loại vay của khách hàng,Tiền Vay,Dịch vụ vay
+391,Lấy thông tin khách hàng vay,Tiền Vay,Dịch vụ vay
+392,Vay online - Khởi tạo,Tiền Vay,Dịch vụ vay
+393,Vay online - Xác nhận ,Tiền Vay,Dịch vụ vay
+394,Danh sách khoản vay,Tiền Vay,Dịch vụ vay
+395,Chi tiết khoản vay ,Tiền Vay,Dịch vụ vay
+396,Xoá khoản vay -Khởi tạo,Tiền Vay,Dịch vụ vay
+397,Xoá khoản vay - Xác nhận,Tiền Vay,Dịch vụ vay
+398,Khoản vay -Vị trí,Tiền Vay,Dịch vụ vay
+401,Kiểm tra rút tiền QR,Rút tiền,Dịch vụ QR
+402,Rút tiền QR - Khởi tạo,Rút tiền,Dịch vụ QR
+403,Rút tiền QR - Xác nhận,Rút tiền,Dịch vụ QR
+404,Khởi tạo nộp tiền QR,Nộp tiền,Dịch vụ QR
+405,Xác nhận nôp tiên QR,Nộp tiền,Dịch vụ QR
+418,ekyc lấy dịch vu đăng ký,Xác thực và Bảo mật,Dịch vụ eKYC
+419,Lấy chi tỉnh/tp EKYC,Xác thực và Bảo mật,Dịch vụ eKYC
+420,ekyc danh sách chi nhánh,Xác thực và Bảo mật,Dịch vụ eKYC
+421,ekyc danh sách nghê nghiệp,Xác thực và Bảo mật,Dịch vụ eKYC
+422,ekyc danh sách vị trí,Xác thực và Bảo mật,Dịch vụ eKYC
+423,Lấy quận/huyện EKYC,Xác thực và Bảo mật,Dịch vụ eKYC
+428,ekyc Kiểm tra thông tin khách hang hien hưu,Xác thực và Bảo mật,Dịch vụ eKYC
+429,ekyc Kiểm tra thông tin,Xác thực và Bảo mật,Dịch vụ eKYC
+430,ekyc Đăng ký khởi tạo,Xác thực và Bảo mật,Dịch vụ eKYC
+431,ekyc Đăng ký xác nhận,Xác thực và Bảo mật,Dịch vụ eKYC
+432,ekyc Kiểm tra tồn tại số điện thoại,Xác thực và Bảo mật,Dịch vụ eKYC
+433,Danh sach hạn mức,Chuyển tiền,Dịch vụ hạn mức
+434,Đổi hạn mức giao dich - Khởi tạo,Chuyển tiền,Dịch vụ hạn mức
+435,Đổi hạn mức giao dich - Xác nhận,Chuyển tiền,Dịch vụ hạn mức
+436,Gửi Otp thu thập sinh trắc học,Xác thực và Bảo mật,Dịch vụ OTP
+437,Xác nhận otp thu thập sinh trắc học,Xác thực và Bảo mật,Dịch vụ OTP
+440,Khởi tạo Đăng ký online qua BCH,Xác thực và Bảo mật,Dịch vụ đăng ký online qua BCH
+441,Confirm Đăng ký online qua BCH,Xác thực và Bảo mật,Dịch vụ đăng ký online qua BCH
+442,Lấy danh sách câu hỏi Đăng ký online qua BCH,Xác thực và Bảo mật,Dịch vụ đăng ký online qua BCH
+443,Trả lời câu hỏi Đăng ký online qua BCH,Xác thực và Bảo mật,Dịch vụ đăng ký online qua BCH
+444,Xác thực Đăng ký online qua Pin thẻ ATM,Xác thực và Bảo mật,Dịch vụ đăng ký online qua PIN thẻ ATM
+445,Lấy token mã hóa Pin thẻ ATM- Đăng ký online,Xác thực và Bảo mật,Dịch vụ đăng ký online qua PIN thẻ ATM
+446,Lay thong tin goi dich vu,Lấy thông tin,Lấy thông tin dịch vụ
+447,Lay thong tin Ma gioi thieu dac trung,Dịch vụ khác,Dịch vụ khách hàng giới thiệu
+448,Lay thong tin CT gioi thieu,Dịch vụ khác,Dịch vụ khách hàng giới thiệu
+450,Lấy mã giới thiệu,Dịch vụ khác,Dịch vụ khách hàng giới thiệu
+451,Lấy lịch sử giới thiệu,Dịch vụ khác,Dịch vụ khách hàng giới thiệu
+452,Lấy danh sách CT giới thiệu đang hoạt động,Dịch vụ khác,Dịch vụ khách hàng giới thiệu
+460,"Phát hành thẻ, lấy ds câu hỏi bảo mật",Thẻ,Dịch vụ phát hành thẻ
+461,"Phát hành thẻ, lấy ds tình trạng hôn nhân",Thẻ,Dịch vụ phát hành thẻ
+462,"Phát hành thẻ, lấy ds tình trạng học vấn",Thẻ,Dịch vụ phát hành thẻ
+463,"Phát hành thẻ, lấy ds hợp đồng lao động",Thẻ,Dịch vụ phát hành thẻ
+464,"Phát hành thẻ, lấy ds sở hữu nhà",Thẻ,Dịch vụ phát hành thẻ
+465,"Phát hành thẻ, lấy ds tỉnh, thành phố",Thẻ,Dịch vụ phát hành thẻ
+466,"Phát hành thẻ, lấy danh sách quận huyện",Thẻ,Dịch vụ phát hành thẻ
+467,"Phát hành thẻ, lấy ds chi nhánh, phòng giao dịch",Thẻ,Dịch vụ phát hành thẻ
+468,"Phát hành thẻ, lấy ds địa chỉ khách hàng",Thẻ,Dịch vụ phát hành thẻ
+469,"Phát hành thẻ, lấy ds địa chỉ cán bộ",Thẻ,Dịch vụ phát hành thẻ
+551,Thẻ trả trước - Danh sách thẻ phát hành,Thẻ,Dịch vụ thẻ trả trước
+552,Thẻ trả trước - Kiểm tra thẻ có được phép phát hành hay không,Thẻ,Dịch vụ thẻ trả trước
+553,Thẻ trả trước - Chi tiết thẻ,Thẻ,Dịch vụ thẻ trả trước
+554,Thẻ trả trước - Khởi tạo Kích hoạt/Khóa/Mở khóa thẻ,Thẻ,Dịch vụ thẻ trả trước
+555,Thẻ trả trước - Xác nhận Kích hoạt/Khóa/Mở khóa thẻ,Thẻ,Dịch vụ thẻ trả trước
+556,Thẻ trả trước - Trao đổi khóa ZPK,Thẻ,Dịch vụ thẻ trả trước
+557,Thẻ trả trước - Khởi tạo đặt PIN,Thẻ,Dịch vụ thẻ trả trước
+558,Thẻ trả trước - Xác nhận đặt PIN,Thẻ,Dịch vụ thẻ trả trước
+559,Thẻ trả trước - Khởi tạo phát hành thẻ,Thẻ,Dịch vụ thẻ trả trước
+560,Thẻ trả trước - Xác nhận phát hành thẻ,Thẻ,Dịch vụ thẻ trả trước
+561,Thẻ trả trước - Danh sách thẻ đã phát hành,Thẻ,Dịch vụ thẻ trả trước
+562,Thẻ trả trước - Lấy số dư thẻ,Thẻ,Dịch vụ thẻ trả trước
+563,Thẻ trả trước - Lấy danh sách chi nhánh,Thẻ,Dịch vụ thẻ trả trước
+564,Thẻ trả trước - Lấy số thẻ full,Thẻ,Dịch vụ thẻ trả trước
+565,Thẻ trả trước - Khởi tạo lấy thông tin thẻ,Thẻ,Dịch vụ thẻ trả trước
+566,Thẻ trả trước - Xác nhận lấy thông tin thẻ,Thẻ,Dịch vụ thẻ trả trước
+567,Thẻ trả trước - Khởi tạo khóa/mở khóa ECOM,Thẻ,Dịch vụ thẻ trả trước
+568,Thẻ trả trước - Xác nhận khóa/mở khóa ECOM,Thẻ,Dịch vụ thẻ trả trước
+569,Thẻ trả trước - Lịch sử giao dịch,Thẻ,Dịch vụ thẻ trả trước
+577,Danh sách thẻ phát hành,Thẻ,Dịch vụ phát hành thẻ
+578,Phát hành thẻ - Khởi tạo,Thẻ,Dịch vụ phát hành thẻ
+579,Phát hành thẻ - Xác nhận,Thẻ,Dịch vụ phát hành thẻ
+580,"Phát hành thẻ, Kiểm tra phát hành thẻ hay chưa",Thẻ,Dịch vụ phát hành thẻ
+581,Danh sách thẻ phát hành vay nhanh,Thẻ,Dịch vụ thẻ vay nhanh
+582,Chi tiết thẻ phát hành vay nhanh,Thẻ,Dịch vụ thẻ vay nhanh
+583,Phát hành thẻ vay nhanh - Khởi tạo,Thẻ,Dịch vụ thẻ vay nhanh
+584,Phát hành thẻ vay nhanh - Xác nhận,Thẻ,Dịch vụ thẻ vay nhanh
+585,Phát hành thẻ vay nhanh - Kiểm tra,Thẻ,Dịch vụ thẻ vay nhanh
+586,Khởi tạo lấy thông tin chi tiết thẻ,Thẻ,Dịch vụ thẻ vay nhanh
+587,Xác thực lấy thông tin chi tiết thẻ,Thẻ,Dịch vụ thẻ vay nhanh
+588,Lấy danh sách thẻ từ được chuyển đổi sang thẻ chip,Thẻ,Dịch vụ thẻ vay nhanh
+600,Lấy nhóm tài khoản số đẹp,Dịch vụ khác,Dịch vụ tài khoản số đẹp
+601,Lấy danh sách tài khoản số đẹp (theo nhóm),Dịch vụ khác,Dịch vụ tài khoản số đẹp
+602,Khởi tạo Mở tài khoản số đẹp,Dịch vụ khác,Dịch vụ tài khoản số đẹp
+603,Xác nhận Mở tài khoản số đẹp,Dịch vụ khác,Dịch vụ tài khoản số đẹp
+660,Khởi tạo mở tài khoản tiền gửi tích lũy (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+661,Xác nhận mở tài khoản tiền gửi tích lũy (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+662,Khởi tạo gửi tích lũy online (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+663,Xác nhận gửi tích lũy online (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+664,Khởi tạo thay đổi tài khoản tích lũy online (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+665,Xác nhận thay đổi tài khoản tích lũy (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+666,Khởi tạo tất toán tiền gửi tích lũy (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+667,Xác nhận tất toán tiền gửi tích lũy (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+668,Kiểm tra GD tích lũy (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+669,Lấy danh sách sản phẩm tích lũy (newcore),Tiền Gửi,Dịch vụ tiền gửi tích lũy
+670,Gửi mail ASXH (newcore),Dịch vụ khác,Dịch vụ mail
+700,"Loyalty: Kiểm tra KH có tk?, chi tiết tk",Dịch vụ khác,Dịch vụ khách hàng trung thành
+701,Loyalty: Lấy ds khu vực,Dịch vụ khác,Dịch vụ khách hàng trung thành
+702,Loyalty: Lấy danh mục quà tặng,Dịch vụ khác,Dịch vụ khách hàng trung thành
+703,Loyalty: Lấy ds quà tặng,Dịch vụ khác,Dịch vụ khách hàng trung thành
+704,Loyalty: Lấy ds quà tặng yêu thích,Dịch vụ khác,Dịch vụ khách hàng trung thành
+705,Loyalty: Lấy ds quà tặng gợi ý,Dịch vụ khác,Dịch vụ khách hàng trung thành
+706,Loyalty: Chi tiết quà tặng,Dịch vụ khác,Dịch vụ khách hàng trung thành
+707,Loyalty: Lịch sử đổi điểm 3 tháng gần nhất,Dịch vụ khác,Dịch vụ khách hàng trung thành
+708,Loyalty: Lịch sử đổi điểm theo các tiêu chí,Dịch vụ khác,Dịch vụ khách hàng trung thành
+709,Loyalty: Chi tiết lịch sử đổi điểm,Dịch vụ khác,Dịch vụ khách hàng trung thành
+710,Loyalty: Lấy ds quà tặng của tôi,Dịch vụ khác,Dịch vụ khách hàng trung thành
+711,Loyalty: Chi tiết quà tặng của tôi,Dịch vụ khác,Dịch vụ khách hàng trung thành
+712,Loyalty: Kiểm tra đk đổi quà,Dịch vụ khác,Dịch vụ khách hàng trung thành
+713,Loyalty: Đổi quà - khởi tạo,Dịch vụ khác,Dịch vụ khách hàng trung thành
+714,Loyalty: Đổi quà - confirm,Dịch vụ khác,Dịch vụ khách hàng trung thành
+715,Loyalty: Gửi yêu cầu khiếu lại,Dịch vụ khác,Dịch vụ khách hàng trung thành
+716,Loyalty: Thêm/Bỏ yêu thích,Dịch vụ khác,Dịch vụ khách hàng trung thành
+717,Loyalty: Lấy danh sách thẻ Loyalty,Dịch vụ khác,Dịch vụ khách hàng trung thành
+718,Loyalty: Lấy danh mục quà tặng (màn hình home),Dịch vụ khác,Dịch vụ khách hàng trung thành
+719,Truy vấn thông tin gói cước/quà VNSHOP,Dịch vụ khác,Dịch vụ khách hàng trung thành
+720,Loyalty: Lấy ds nhà cung cấp,Dịch vụ khác,Dịch vụ khách hàng trung thành
+721,Loyalty: Sao kê tài khoản điểm ,Dịch vụ khác,Dịch vụ khách hàng trung thành
+722,Loyalty: Lấy ds quà hot deal,Dịch vụ khác,Dịch vụ khách hàng trung thành
+723,Loyalty: kiểm tra điều kiện đổi quà omni,Dịch vụ khác,Dịch vụ khách hàng trung thành
+780,Lấy danh sách tài khoải tiết kiệm đủ điều kiện vay cầm cố,Tiền Vay,Dịch vụ vay cầm cố
+781,Khởi tạo vay cầm cố,Tiền Vay,Dịch vụ vay cầm cố
+782,Xác nhận vay cầm cố,Tiền Vay,Dịch vụ vay cầm cố
+783,Lấy chi tiết tài khoải tiết kiệm đủ điều kiện vay cầm cố,Tiền Vay,Dịch vụ vay cầm cố
+784,Lấy danh sách tài khoản thanh toán,Tiền Vay,Dịch vụ vay cầm cố
+785,Lấy chi tiết tài khoản thanh toán có hợp lệ,Tiền Vay,Dịch vụ vay cầm cố
+786,Lấy danh sách param của mở vay cầm cố,Tiền Vay,Dịch vụ vay cầm cố
+787,Tạo tài khoản thanh toán từ tài khoản tiết kiệm,Tiền Vay,Dịch vụ vay cầm cố
+788,Lấy danh sách khoản vay cầm cố tiền gửi online cần theo dõi,Tiền Vay,Dịch vụ vay cầm cố
+789,Lấy chi tiết khoản vay cầm cố tiền gửi online,Tiền Vay,Dịch vụ vay cầm cố
+801,Danh sách tài khoản thấu chi,Tiền Vay,Dịch vụ vay thấu chi
+802,Chi tiết tài khoản thấu chi,Tiền Vay,Dịch vụ vay thấu chi
+803,Khởi tạo chấm dứt vay thấu chi,Tiền Vay,Dịch vụ vay thấu chi
+804,Xác nhận chấm dứt vay thấu chi,Tiền Vay,Dịch vụ vay thấu chi
+810,Tặng quà nhiều người - Khởi tạo,Dịch vụ khác,Dịch vụ tặng quà
+811,Tặng quà nhiều người - Xác nhận,Dịch vụ khác,Dịch vụ tặng quà
+818,Danh sách đầu số điện thoại,Dịch vụ khác,Dịch vụ đầu số điện thoại
+819,Danh sách số điện thoại theo cif,Dịch vụ khác,Dịch vụ đầu số điện thoại
+820,Kiểm tra đăng ký BSMS,Dịch vụ khác,Dịch vụ BSMS
+821,Khởi tạo đăng ký BSMS,Dịch vụ khác,Dịch vụ BSMS
+822,Xác nhận đăng ký BSMS,Dịch vụ khác,Dịch vụ BSMS
+823,Hủy đăng ký BSMS -Khởi tạo,Dịch vụ khác,Dịch vụ BSMS
+824,Hủy đăng ký BSMS -Xác nhận,Dịch vụ khác,Dịch vụ BSMS
+840,Danh sách tài khoản định danh,Dịch vụ tùy biến cá nhân,Dịch vụ tài khoản định danh
+841,Danh sách loại tài khoản định danh,Dịch vụ tùy biến cá nhân,Dịch vụ tài khoản định danh
+842,Khởi tạo mở tài khoản định danh,Dịch vụ tùy biến cá nhân,Dịch vụ tài khoản định danh
+843,Xác nhận mở tài khoản định danh,Dịch vụ tùy biến cá nhân,Dịch vụ tài khoản định danh
+844,Khởi tạo thay đổi tài khoản định danh,Dịch vụ tùy biến cá nhân,Dịch vụ tài khoản định danh
+845,Xác nhận thay đổi tài khoản định danh,Dịch vụ tùy biến cá nhân,Dịch vụ tài khoản định danh
+846,Khóa/Mở khóa tài khoản định danh,Dịch vụ tùy biến cá nhân,Dịch vụ tài khoản định danh
+900,Lấy danh sách số điện thoại và hạn mức giao dịch,Dịch vụ khác,Dịch vụ đầu số điện thoại
+901,Tạo tài khoản Smart Kids không mở như ý,Smart Kids,Dịch vụ tài khoản Smart Kids
+902,Xác nhận tạo tài khoản Smart Kids như ý và không như ý,Smart Kids,Dịch vụ tài khoản Smart Kids
+903,Lấy danh sách Smart Kids của user chính,Smart Kids,Dịch vụ tài khoản Smart Kids
+904,Khóa/Mở khóa/đóng tk Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+905,Cài đặt lại mật khẩu cho User phụ,Smart Kids,Dịch vụ tài khoản Smart Kids
+906,Cho phép User phụ đổi thiết bị khác,Smart Kids,Dịch vụ tài khoản Smart Kids
+907,Chi tiết user Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+908,Cập nhật thông tin User phụ,Smart Kids,Dịch vụ tài khoản Smart Kids
+909,Tạo số điện thoại mới Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+910,Xác thực tạo điện thoại mới Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+911,Check và xác nhận điện thoại mới Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+912,Lấy danh sách mối quan hệ của thằng cha,Smart Kids,Dịch vụ tài khoản Smart Kids
+913,Lấy danh sách chức năng theo mối quan hệ,Smart Kids,Dịch vụ tài khoản Smart Kids
+914,Lấy loại danh sách tài khoản như ý Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+915,Lấy chi tiết tài khoản số đẹp như ý Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+916,Tạo tài khoản như ý Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+917,Nhận thông báo tk Smart Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+918,Đóng tk Smart Kids mở cif,Smart Kids,Dịch vụ tài khoản Smart Kids
+919,Lấy danh sách chức năng theo Smrat Kids,Smart Kids,Dịch vụ tài khoản Smart Kids
+951,Kiểm tra thông tin trước khi giao dịch chuyển tiền quốc tế,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+952,Lấy mục đích chuyển tiền quốc tế,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+953,Lấy danh sách tiền tệ chuyển tiền quốc tế ,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+954,Lấy danh sách quốc gia chuyển tiền quốc tế,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+955,Lấy căn cứ thanh toán,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+956,Tạo căn cứ thanh toán ,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+957,Lấy tỷ giá giao dịch ,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+958,Lấy phí giao dịch,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+959,Kiểm tra thông tin Iban,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+960,Lấy danh sách giao dịch chuyển tiền quốc tế,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+961,Lấy danh sách ngân hàng thụ hưởng,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+962,Hủy giao dịch,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+963,CTQT - Khởi tạo tạo tra soát,Chuyển tiền quốc tế,Dịch vụ tra soát giao dịch chuyển tiền quốc tế
+964,Khởi tạo chuyển tiền quốc tế ,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+965,Xác thực chuyển tiền quốc tế ,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+966,Cập nhật tỷ giá mới,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+967,Khởi tạo chấp nhận tỷ giá,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+968,Xác thực chấp nhận tỷ giá,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+969,Cập nhật hồ sơ căn cứ thanh toán,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+970,Vấn tin trạng thái ghi có của người hưởng ,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+971,Vấn tin điện chuyển tiền,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+972,Lấy danh sách doanh nghiệp trả lương ,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+975,Khởi tạo giao dịch  QR Quốc tế,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+976,Xác nhận giao dịch QR Quốc tế,Chuyển tiền quốc tế,Dịch vụ giao dịch chuyển tiền quốc tế
+977,CTQT - Xác nhận tạo tra soát,Tra soát,Dịch vụ tra soát giao dịch chuyển tiền quốc tế
+980,Mua ngoại tệ - Kiểm tra tài khoản đủ điều kiện mua ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+981,Mua ngoại tệ - Danh sách mục đích mua ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+982,Mua ngoại tệ - Danh sách tài liệu theo mục đích,Ngoại tệ,Dịch vụ ngoại tệ
+983,Mua ngoại tệ - Danh sách loại tiền tệ,Ngoại tệ,Dịch vụ ngoại tệ
+984,Mua ngoại tệ - Lấy tỷ giá ngoại tệ so với loại tiền tài khoản thanh toán,Ngoại tệ,Dịch vụ ngoại tệ
+985,Mua ngoại tệ - Danh sách chi nhánh bán ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+986,Mua ngoại tệ - Lấy thông tin người giới thiệu bằng CCCD,Ngoại tệ,Dịch vụ ngoại tệ
+987,Mua ngoại tệ - Danh sách ngày nghỉ,Ngoại tệ,Dịch vụ ngoại tệ
+988,Mua ngoại tệ - Khởi tạo Đăng ký/Chỉnh sửa/Cập nhật đăng ký giao dịch mua ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+989,Mua ngoại tệ - Xác nhận Đăng ký/Chỉnh sửa/Cập nhật đăng ký giao dịch mua ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+990,Mua ngoại tệ - Danh sách giao dịch mua ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+991,Mua ngoại tệ - Hủy giao dịch mua ngoại tệ,Ngoại tệ,Dịch vụ ngoại tệ
+992,Mua ngoại tệ - Thêm tài liệu,Ngoại tệ,Dịch vụ ngoại tệ
+993,Mua ngoại tệ - Lấy chi nhánh theo subBranch,Ngoại tệ,Dịch vụ ngoại tệ
+"1,000",Lấy danh sách ví điện tử đã liên kết ,Ví điện tử,Dịch vụ ví điện tử
+"1,001",Khởi tạo liên kết ví điện tử,Ví điện tử,Dịch vụ ví điện tử
+"1,002",Xác nhận liên kết ví điện tử,Ví điện tử,Dịch vụ ví điện tử
+"1,003",Khởi tạo hủy liên kết ví điện tử,Ví điện tử,Dịch vụ ví điện tử
+"1,004",Xác nhận hủy liên kết ví điện tử,Ví điện tử,Dịch vụ ví điện tử
+"1,005",Khởi tạo nạp tiền ví điện tử,Ví điện tử,Dịch vụ ví điện tử
+"1,006",Xác nhận nạp tiền ví điện tử,Ví điện tử,Dịch vụ ví điện tử
+"1,007",Vấn tin giao dịch nạp tự động,Ví điện tử,Dịch vụ ví điện tử
+"1,008",Lấy danh sách dịch vụ ví điện tử,Ví điện tử,Dịch vụ ví điện tử
+"1,009",Truy vấn thông tin khách hàng,Lấy thông tin,Truy vấn thông tin khách hàng
+"1,019",Lấy danh sách kho bạc,Thuế,Dịch vụ thuế
+"1,020",Truy vấn mã số thuế,Thuế,Dịch vụ thuế
+"1,021",Truy vấn kênh kho bạc,Thuế,Dịch vụ thuế
+"1,022",Khởi tạo trả thuế,Thuế,Dịch vụ thuế
+"1,023",Xác nhận trả thuế,Thuế,Dịch vụ thuế
+"9,001",sdk ekyc,(CoreBank),(CoreBank)
+"9,002",Xoa tat ca cache common,(CoreBank),(CoreBank)
+"9,003",Lay danh sach key redis common,(CoreBank),(CoreBank)
+"9,004",Xoa common cache redis,(CoreBank),(CoreBank)
+"9,005",Xoa cache by pattern keys,(CoreBank),(CoreBank)
+"9,006",Cai key redis cache,(CoreBank),(CoreBank)
+"9,007",Cap nhat customer_status in redis cache BE update customer,(CoreBank),(CoreBank)
+"9,008",Kick out session,(CoreBank),(CoreBank)
+"9,011",Check Biometrics,(CoreBank),(CoreBank)
+"9,012",Send Mail,(CoreBank),(CoreBank)
+"9,013",Create Otp,(CoreBank),(CoreBank)
+"9,014",Verify Otp,(CoreBank),(CoreBank)
+"9,015",Wallet Unlink,(CoreBank),(CoreBank)
+"9,016",Init Transaction,(CoreBank),(CoreBank)
+"9,017",Confirm Transaction,(CoreBank),(CoreBank)
+"9,018",Send Email Be,(CoreBank),(CoreBank)
+"9,019",Avatar,(CoreBank),(CoreBank)
+"9,021",Get Bill,(CoreBank),(CoreBank)
+"9,022",Inquiry Bill,(CoreBank),(CoreBank)
+"9,023",Create Cif,(CoreBank),(CoreBank)
+"9,024",Update ocr info,(CoreBank),(CoreBank)
+"9,025",Update ekyc status,(CoreBank),(CoreBank)
+"9,026",Biometric confirm,(CoreBank),(CoreBank)
+"9,027",Delete Card,(CoreBank),(CoreBank)
+"9,900",API authenBSB,(CoreBank),(CoreBank)
+"9,901",API checkUserExistBSB,(CoreBank),(CoreBank)
+"9,902",API precheckUserExistsBSB,(CoreBank),(CoreBank)
+"9,903",API totalAmountTrans,(CoreBank),(CoreBank)
+"9,904",API Mở khóa dịch vụ SMB,(CoreBank),(CoreBank)
+"9,905",API Gửi lại mật khẩu lần đầu,(CoreBank),(CoreBank)
+"9,906",API Mở đăng nhập khác thiết bị,(CoreBank),(CoreBank)
+"9,907",API Đăng ký dịch vụ,(CoreBank),(CoreBank)
+"9,908",API Cập nhật thông tin,(CoreBank),(CoreBank)
+"9,909",API Cập nhật gói dịch vụ,(CoreBank),(CoreBank)
+"9,910",API Cập nhật số điện thoại nhận Otp,(CoreBank),(CoreBank)
